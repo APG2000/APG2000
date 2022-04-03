@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Estudante de Engenharia Informática
 - 😄 Pronouns: ele/ boss 😅
-- ⚡ Fun fact: Berdiano 😎 🔥
+- ⚡ Fun fact: Berdiano 🇨🇻 😎 🔥 
 
 <div align="center">
   <a href="https://github.com/APG2000">

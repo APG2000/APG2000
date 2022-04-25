@@ -3,7 +3,6 @@
 
 
 - 👨‍🎓 Estudante de Engenharia Informática
-- 😄 Pronouns: ele/ boss 😅
 - ⚡ Fun fact: Berdiano 🇨🇻 😎 🔥 
 
 <div align="center">

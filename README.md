@@ -5,6 +5,11 @@
 - 👨‍🎓 Estudante de Engenharia Informática
 - ⚡ Fun fact: Berdiano 🇨🇻 😎 🔥 
 
+- 🔥I'm currently improving my mobile development skills using 
+   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> and <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
+
 <div align="center">
   <a href="https://github.com/APG2000">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=APG2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,8 +20,6 @@
   <img align="center" alt="APG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="APG-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="APG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="APG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="APG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="APG-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="APG-pic" height="150" style="border-radius:50px;"src="https://c.tenor.com/UhggrmXbaGAAAAAC/discord-pfp-cool-discord-pfp.gif">

@@ -5,8 +5,6 @@
 - 👨‍🎓 Estudante de Engenharia Informática
 - ⚡ Fun fact: Berdiano 🇨🇻 😎 🔥 
 
-- 🔥I'm currently improving my mobile development skills using 
-   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> and <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 
 

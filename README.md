@@ -2,7 +2,7 @@
 
 
 
-- 👨‍🎓 Estudante de Engenharia Informática
+- Software Developer
 - ⚡ Fun fact: Berdiano 🇨🇻 😎 🔥 
 
 
